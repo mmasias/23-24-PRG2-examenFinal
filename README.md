@@ -55,7 +55,7 @@ Diseñe y programe un sistema que modele todo este proceso, considerando las res
 ## Se evaluará
 
 - **Código limpio.**
-- **Proceso de creación ***contínuo*** que garantice la trazabilidad.**
+- **Proceso de creación ***continuo*** que garantice la trazabilidad.**
 - **Implementación clara y legible**
 - Diseño.
   - Jerarquía de clases.
