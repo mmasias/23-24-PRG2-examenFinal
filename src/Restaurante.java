@@ -1,6 +1,7 @@
 class Restaurante {
 
     private void atender() {
+
         Cocinero bobEsponja = new Cocinero();
         Camarero calamardo = new Camarero();
         
